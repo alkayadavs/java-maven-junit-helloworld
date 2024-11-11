@@ -2,7 +2,7 @@ package com.example.javamavenjunithelloworld;
 
 /**
  * A very basic program that demonstrates the use of JUnit tests. The tests include a sample unit test and an
- * integration test.
+ * integration test change Done.
  */
 public class HelloApp {
 
